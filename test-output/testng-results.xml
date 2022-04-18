@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-18T09:14:10 IST" name="Default suite" finished-at="2022-04-18T09:14:14 IST" duration-ms="3714">
+    <groups>
+    </groups>
+    <test started-at="2022-04-18T09:14:10 IST" name="Default test" finished-at="2022-04-18T09:14:14 IST" duration-ms="3714">
+      <class name="main.DayTwoRestAssured">
+        <test-method signature="testExtract()[pri:0, instance:main.DayTwoRestAssured@b62d79]" started-at="2022-04-18T09:14:10 IST" name="testExtract" finished-at="2022-04-18T09:14:14 IST" duration-ms="3642" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testExtract -->
+      </class> <!-- main.DayTwoRestAssured -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
